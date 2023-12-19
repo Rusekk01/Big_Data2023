@@ -18,11 +18,18 @@
 
 # Лабораторная 3
 
-Задание 1. Ride-Cleansing
+<h2>Задание 1. Ride-Cleansing</h2>
+
 ![Task1](1.png)
-Задание 2. RidesAndFares
+
+<h2>Задание 2. RidesAndFares</h2>
+
 ![Task2](2.png)
-Задание 3. HourlyTips
+
+<h2>Задание 3. HourlyTips</h2>
+
 ![Task3](3.png)
-Задание 4. Long-ride-alerts
+
+<h2>Задание 4. Long-ride-alerts</h2>
+
 ![Task4](4.png)
